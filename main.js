@@ -21,7 +21,7 @@ function addComment(ev) {
   deleteButton.className = "deleteComment";
   deleteButton.style.border = "none";
   deleteButton.style.borderRadius = "9px";
-  deleteButton.style.background = "red";
+
   const wrapDiv2 = document.createElement("div");
   wrapDiv2.className = "wrapper";
   wrapDiv2.style.marginLeft = 0;
